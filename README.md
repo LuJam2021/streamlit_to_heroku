@@ -21,3 +21,8 @@ port = $PORT\n\
 " > ~/.streamlit/config.toml
 
 ```python
+
+*pakege heroku 0.1.4 跟 python-dateytil-2.8.2 跟 pandas 衝突
+解決辦法: 
+1. pip uninstall heroku
+2. pip install heorku3
